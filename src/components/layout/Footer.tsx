@@ -11,9 +11,10 @@ const footerLinks = [
   { label: "Contact", href: "#contact" },
 ];
 
-const EMAIL = "goodthoughts320@gmail.com";
+const EMAIL = "nakul.mode@gmail.com";
 const INSTAGRAM = "https://instagram.com/vnx.nakul";
-const LINKEDIN = "https://www.linkedin.com/in/good-thoughts-40a54b420/";
+const LINKEDIN = "https://www.linkedin.com/in/nakul-kumar-30876a438/";
+const GITHUB = "https://github.com/nakul2008";
 const WHATSAPP = "https://wa.me/917310637097";
 
 export default function Footer() {
@@ -92,6 +93,14 @@ export default function Footer() {
                   className="hover-button inline-flex h-10 items-center justify-center border border-[var(--border)] bg-[var(--surface)] px-4 text-xs font-semibold uppercase tracking-[0.08em]"
                 >
                   LinkedIn
+                </a>
+                <a
+                   href={GITHUB}
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   className="hover-button inline-flex h-10 items-center justify-center px-5"
+                >
+                  GitHub
                 </a>
 
                 <a

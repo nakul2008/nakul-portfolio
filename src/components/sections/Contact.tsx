@@ -8,7 +8,7 @@ import {
   MoveUpRight,
 } from "lucide-react";
 
-const EMAIL = "goodthoughts320@gmail.com";
+const EMAIL = "nakul.mode@gmail.com";
 const WHATSAPP = "917310637097";
 
 function createGmailLink(
