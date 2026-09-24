@@ -94,6 +94,7 @@ export default function Footer() {
                 >
                   LinkedIn
                 </a>
+                
                 <a
                    href={GITHUB}
                    target="_blank"
