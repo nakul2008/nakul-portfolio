@@ -94,12 +94,12 @@ export default function Footer() {
                 >
                   LinkedIn
                 </a>
-                
+
                 <a
-                   href={GITHUB}
-                   target="_blank"
-                   rel="noopener noreferrer"
-                   className="hover-button inline-flex h-10 items-center justify-center px-5"
+                  href={GITHUB}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover-button inline-flex h-10 items-center justify-center border border-[var(--border)] bg-[var(--surface)] px-4 text-xs font-semibold uppercase tracking-[0.08em]"
                 >
                   GitHub
                 </a>
